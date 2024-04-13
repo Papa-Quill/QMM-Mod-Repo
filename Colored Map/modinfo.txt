@@ -1,0 +1,4 @@
+ModTitle=Colored Map
+ModAuthor=sanguchito
+ModVersion=1.0
+ModDescription=This is a replacement of the normal map to add color! if your game crashes just change the quality of the textures.

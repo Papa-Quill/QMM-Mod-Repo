@@ -1,0 +1,4 @@
+ModTitle=Playable Barbarian Boss
+ModAuthor=Gluck
+ModVersion=1.0.4
+ModDescription=This mod adds the barbarian boss as a playable character!

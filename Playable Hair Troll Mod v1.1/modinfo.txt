@@ -1,0 +1,4 @@
+ModTitle=Playable Hair Troll Mod
+ModAuthor=Zumbee
+ModVersion=1.1
+ModDescription=This mod adds the hair troll as a playable character!

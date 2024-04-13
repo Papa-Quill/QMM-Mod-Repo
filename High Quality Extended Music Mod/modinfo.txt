@@ -1,0 +1,4 @@
+ModTitle=High Quality Extended Music Mod
+ModAuthor=zyphurgd
+ModVersion=1.0
+ModDescription=High quality music replacements for all music tracks, smoother looping, increseased length!
