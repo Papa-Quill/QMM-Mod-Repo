@@ -1,4 +1,4 @@
 ModTitle=Troll Mod
 ModAuthor=Flamming, Worst
-ModVersion=1.1.1
+ModVersion=1.1.2
 ModDescription=This mod adds a new campaign and makes things more difficult and devious, and much more!
