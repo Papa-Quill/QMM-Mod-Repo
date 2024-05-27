@@ -1,0 +1,4 @@
+ModTitle=Only Beefy
+ModAuthor=Flamming, Worst
+ModVersion=1.0
+ModDescription=The player is always beefy. There are new animations for each part of the story where there is no beefy counterpart.
