@@ -1,0 +1,4 @@
+ModTitle=Magic Randomizer
+ModAuthor=Symm
+ModVersion=1.0
+ModDescription=Visit the gamebanana page for mod info: https://gamebanana.com/mods/515596
