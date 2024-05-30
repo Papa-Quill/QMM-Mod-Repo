@@ -1,4 +1,4 @@
 ModTitle=Enemy Randomizer
 ModAuthor=Gluck
-ModVersion=1.0.2
+ModVersion=1.0.4
 ModDescription=All enemy spawns are randomly selected, so you'll never know what the next wave will be like.
