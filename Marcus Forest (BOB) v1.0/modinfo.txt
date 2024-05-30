@@ -1,0 +1,4 @@
+ModTitle=Marcus Forest (BOB)
+ModAuthor=Zumbee
+ModVersion=1.0
+ModDescription=This is a brand new Back Off Barbarian map.
