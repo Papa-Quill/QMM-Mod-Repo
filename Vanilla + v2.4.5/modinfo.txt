@@ -1,4 +1,0 @@
-ModTitle=Vanilla +
-ModAuthor=Gluck
-ModVersion=2.4.5
-ModDescription=Vanilla+ is an extensive enhancement mod for Castle Crashers. Numerous features are reworked and rebalanced.
