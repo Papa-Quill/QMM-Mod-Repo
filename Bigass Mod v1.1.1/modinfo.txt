@@ -1,0 +1,4 @@
+ModTitle=Bigass Mod
+ModAuthor=DaNastyOne
+ModVersion=1.1.1
+ModDescription=A really big mod. Adds 32 new characters and 21 new unique gimmick weapons
