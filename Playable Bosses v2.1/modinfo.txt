@@ -1,0 +1,4 @@
+ModTitle=Playable Bosses
+ModAuthor=Gluck
+ModVersion=2.1
+ModDescription=This mod adds the some bosses as playable characters!
