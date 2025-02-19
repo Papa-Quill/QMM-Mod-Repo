@@ -1,0 +1,4 @@
+ModTitle=Yellow Knight Mod
+ModAuthor=Zumbee
+ModVersion=1.0
+ModDescription=This mod adds the legendary Yellow Knight as a playable character!
