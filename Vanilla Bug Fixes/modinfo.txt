@@ -1,0 +1,4 @@
+ModTitle=Vanilla Fixes
+ModAuthor=Gluck
+ModVersion=1.0
+ModDescription=It's vanilla with a bunch of bug fixes!
