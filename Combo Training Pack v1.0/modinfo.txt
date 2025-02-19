@@ -1,0 +1,4 @@
+ModTitle=Combo Training Pack
+ModAuthor=Zumbee
+ModVersion=1.0
+ModDescription=This mod adds a new area to the map, where you can practice various different types of juggles, and even create your own weights to try out new ones!
