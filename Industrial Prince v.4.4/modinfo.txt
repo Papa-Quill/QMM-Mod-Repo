@@ -1,0 +1,4 @@
+ModTitle=Industrial Prince Mod
+ModAuthor=Zumbee
+ModVersion=4.4
+ModDescription=This is a full scale character mod for Castle Crashers, new levels, characters, and more!
