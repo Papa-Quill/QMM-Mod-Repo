@@ -1,0 +1,4 @@
+ModTitle=Clash of Clans Barbarian Mod
+ModAuthor=BizWuzzZuzz
+ModVersion=1.0
+ModDescription=A replacement mod for the Barbarian that replaces it with the Barbarian Troop from the mobile game Clash of Clans. This mod also features replacements for other assets such as items, animal orbs, and the beefy transformation animation. 
