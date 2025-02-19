@@ -1,0 +1,4 @@
+ModTitle=Snow World: Absolute Zero
+ModAuthor=Symm
+ModVersion=1.0
+ModDescription=A rework of Snow World, giving the level more exciting waves and bosses!
