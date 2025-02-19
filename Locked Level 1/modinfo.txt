@@ -1,0 +1,4 @@
+ModTitle=Locked Level 1
+ModAuthor=Gluck
+ModVersion=1.0
+ModDescription=Play through the game locked at level 1, a fun challenge mod.
