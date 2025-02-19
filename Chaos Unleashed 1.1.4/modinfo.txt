@@ -1,0 +1,4 @@
+ModTitle=Chaos Unleashed
+ModAuthor=Snowyboi, Rare
+ModVersion=1.1.4
+ModDescription=Adds "Snowy's Campaign" featuring 13+ difficult levels, new vanilla levels, new weapons and more
